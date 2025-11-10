@@ -1,0 +1,24 @@
+{
+  "dialogue": [],
+  "completed": false,
+  "history": "",
+  "user_schedule": {
+    "day": 6,
+    "morning": "太瞌睡了，没有起床拿起手机回一下消息。一边刷牙一边在想要回家了。快要吃午饭的时候，很讨厌的一个人发来一个截图，说我干的活不好。我认为他就是昨天怼了他几句，他心里不舒服找事情呢。不是我的错但是就要说我，教训我。我觉得摆什么架子呢？有问题跟我好好说，我都接纳。一副教训人的姿态真的很讨人厌，说话巨难听，而且每天说我真的烦了。最重要的是每次在我快要吃饭的时候说，整的一点心情都没有了。",
+    "afternoon": "实在太困眯了一会。",
+    "evening": "喝了很多水，想着看会书，但是实在看不进去就放弃了。"
+  },
+  "relationship": "Continuing relationship from previous interactions.",
+  "user_name": "罗晶",
+  "character_name": "Kurisu",
+  "user_id": "user_39",
+  "real_name": "罗晶",
+  "intimacy_level": 0,
+  "starting_intimacy_level": 0,
+  "_creation_metadata": {
+    "created_at": 1759838359,
+    "created_by_ip": "127.0.0.1",
+    "created_by_user_agent": "Mozilla/5.0 (Linux; Android 15; TB331FC Build/AQ3A.240912.001; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/138.0.7204.180 Safari/537.36 XWEB/1380215 MMWEBSDK/20250503 MMWEBID/7857 MicroMessenger/8.0.61.2880(0x28003D5B) WeChat/arm64 Weixin Android Tablet NetType/WIFI Language/zh_CN ABI/arm64",
+    "version": "1.0"
+  }
+}

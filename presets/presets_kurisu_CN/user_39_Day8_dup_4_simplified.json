@@ -1,0 +1,25 @@
+{
+  "dialogue": [],
+  "completed": false,
+  "history": "",
+  "user_schedule": {
+    "day": 8,
+    "morning": "早上听一会英语听力，有的可以听懂，有的听不懂，听不懂的就想直接跳过。",
+    "noon": "中午又被骂了，说我工作没有做好，我又一次没有回复他的消息。中午没有吃饭，伤心。",
+    "evening": "晚上什么都不想就去河边走了走，好像要下雨，风也不像之前的那么和煦，刮的我的脸有点疼。",
+    "night": "夜晚和室友小酌一杯，这个酒的名字叫做梅见，比果立方好喝。越想越生气就跟老板说我不干了，老板说等他回来了再说。"
+  },
+  "relationship": "Continuing relationship from previous interactions.",
+  "user_name": "罗晶",
+  "character_name": "Kurisu",
+  "user_id": "user_39",
+  "real_name": "罗晶",
+  "intimacy_level": 0,
+  "starting_intimacy_level": 0,
+  "_creation_metadata": {
+    "created_at": 1759838359,
+    "created_by_ip": "127.0.0.1",
+    "created_by_user_agent": "Mozilla/5.0 (Linux; Android 15; TB331FC Build/AQ3A.240912.001; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/138.0.7204.180 Safari/537.36 XWEB/1380215 MMWEBSDK/20250503 MMWEBID/7857 MicroMessenger/8.0.61.2880(0x28003D5B) WeChat/arm64 Weixin Android Tablet NetType/WIFI Language/zh_CN ABI/arm64",
+    "version": "1.0"
+  }
+}

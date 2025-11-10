@@ -1,0 +1,26 @@
+{
+  "dialogue": [],
+  "completed": false,
+  "history": "",
+  "user_schedule": {
+    "morning": "地铁上刷到一条新闻，说某公司花重金开发“AI生成恋爱语音”，结果被骂“电子寄生虫”。看得他一边笑一边摇头。",
+    "noon": "公司食堂新上了一种“豪华牛肉咖喱”，结果里面的牛肉只有两块，大家都在吐槽。",
+    "afternoon": "工作例行报告，因为没带充电器，电脑差点没电，最后用投影仪线凑合着撑完。",
+    "evening": "回家路上看到便利店外的小猫又蹲在原地，就买了第二份猫罐头，猫吃得很开心",
+    "night": "",
+    "day": 7
+  },
+  "relationship": "Continuing relationship from previous interactions.",
+  "user_name": "John Smith",
+  "character_name": "Kurisu",
+  "user_id": "user_49",
+  "real_name": "马博洋",
+  "intimacy_level": 0,
+  "starting_intimacy_level": 0,
+  "_creation_metadata": {
+    "created_at": 1760292447,
+    "created_by_ip": "127.0.0.1",
+    "created_by_user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36 Edg/141.0.0.0",
+    "version": "1.0"
+  }
+}

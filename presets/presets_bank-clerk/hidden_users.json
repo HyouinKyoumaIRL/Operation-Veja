@@ -1,0 +1,14 @@
+{
+  "description": "Hidden users configuration for presets_bank-clerk preset",
+  "hidden_users": [
+    "user_11",
+    "user_12",
+    "user_13",
+    "user_14",
+    "user_15",
+    "user_16"   
+  
+  ],
+  "last_updated": "2024-12-19",
+  "notes": "Users listed here will be completely hidden from the frontend. Add user IDs (like 'user_28', 'user_29') to hide them from the character selection interface."
+} 

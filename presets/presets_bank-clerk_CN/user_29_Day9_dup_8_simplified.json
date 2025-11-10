@@ -1,0 +1,25 @@
+{
+  "dialogue": [],
+  "completed": false,
+  "history": "",
+  "user_schedule": {
+    "afternoon": "去见资方，在马场，陪资方跑了两场马，获得资方赞赏。他会骑马是因为十九岁时陪着生病的妈妈去内蒙修养了三个月，在那里学会了骑马。骑马技术被马术教练赞赏。结束骑马后和资方吃下午茶闲谈，谈到时新闻话题，富二代医保枪杀案。资方对这种伤害资本的行为深恶痛绝。他有分寸地表示了不同的意见。他是偏左派的。今日讨论点：骑马、内蒙古、枪击案的看法、小奶猫的乌龙。",
+    "day": 9,
+    "evening": "飙车赶回家陪小奶猫，小奶猫在他的怀里打起了盹，他的内心感到一阵温柔。短暂地升起留下小奶猫的念头。结果收到一封邮件，近期需要频繁出国，取消了这想法，心里十分不舍，却只能现实主义至上地在条件合适的好友里找领养人。讨论点：情绪、",
+    "morning": "照顾小奶猫后去实验室，请了保姆在家照看小猫，由于不放心，时不时让保姆发送视频",
+    "noon": "工作，听到小奶猫吐奶后赶了回去，请宠物医生上门，原来只是小奶猫吃撑了。心情是又好笑又无奈。"
+  },
+  "relationship": "Continuing relationship from previous interactions.",
+  "user_name": "陆明观",
+  "character_name": "陆清禾",
+  "user_id": "user_29",
+  "real_name": "（小昭）",
+  "intimacy_level": 0,
+  "starting_intimacy_level": 0,
+  "_creation_metadata": {
+    "created_at": 1761708973,
+    "created_by_ip": "127.0.0.1",
+    "created_by_user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36 Edg/141.0.0.0",
+    "version": "1.0"
+  }
+}

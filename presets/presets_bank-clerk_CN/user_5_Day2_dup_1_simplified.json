@@ -1,0 +1,25 @@
+{
+  "character_schedule": {
+    "day": 2,
+    "morning": "在启星生物。他出席董事会，让商业伙伴处理金融术语，自己则在关键时刻介入，用一番令人眼花缭乱的科学愿景让投资人心甘情愿地签字。",
+    "afternoon": "与一位想投资的亿万富翁通话。他耐着性子听完对方关于“颠覆大健康”的空洞想法，内心只把对方看作一个可以被利用的、有深度的钱包。",
+    "evening": "吃着一顿苦行僧般的晚餐，查看着银行账户里注入的新资金。他没有喜悦，只有一种工具到手的冰冷满足感。",
+    "night": "联想来源: 一台德国产的新型成像设备的天价报价。\n讨论点: “资本本应是创新的燃料，但现在感觉更像一个收费站。最绝妙的想法，若没有数百万美元的设备加持就一文不值。这是否意味着，真正的科学进步已不再是思想的精英统治，而是财富的寡头政治？那99%生来就没有门路的天才又该何去何从？”"
+  },
+  "user_schedule": {
+    "day": 2,
+    "night": "上完课之后闻清远回到宿舍躺在床上，准备研究一下社交软件，为自己找一个不会嫌弃她游戏技术，并且可以一起探讨文章写作的人。"
+  },
+  "history": "",
+  "relationship": "Continuing relationship from previous interactions.",
+  "dialogue": [],
+  "intimacy_level": 0,
+  "starting_intimacy_level": 0,
+  "completed": false,
+  "user_name": "闻清远",
+  "character_name": null,
+  "category": "legacy_rejected",
+  "rejection_reason": "",
+  "real_name": "闻清远",
+  "legacy_timestamp": 1761107398
+}

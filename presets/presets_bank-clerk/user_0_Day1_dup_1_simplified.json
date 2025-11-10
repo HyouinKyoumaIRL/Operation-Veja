@@ -1,0 +1,27 @@
+{
+  "character_schedule": {
+    "day": 1,
+    "morning": "Wake up at 7:00 AM, check emails on my phone to get the latest market updates and internal company announcements. [5, 6] Then, I do a morning workout to build up energy for the day. Arrive at the office at 8:30 AM, respond to urgent emails, and have a morning meeting with the team to discuss the day's priorities and market changes. [1, 5]",
+    "noon": "Follow up on the morning meeting, build financial models for data analysis. [1, 7] Have lunch with colleagues for a short break.",
+    "afternoon": "Have a conference call with a client to answer their questions about investment strategies. [5] Afterwards, I start writing a report to be submitted to the senior analyst in the afternoon. [7]",
+    "evening": "Work overtime to finish the day's work report and prepare for a presentation. [5] Dinner is usually eaten at the office. [18] Get off work around 10 PM and drive home. [13]",
+    "night": "Engage in some relaxing activities, such as reading or watching a movie, to relieve the stress of the day. [3, 9, 12]"
+  },
+  "user_schedule": {
+    "day": 1,
+    "morning": "6 a.m. math tuition class, sleepy bus ride.",
+    "noon": "",
+    "afternoon": "Chemistry lab titrations; spills acid, minor panic.",
+    "evening": "Calls cousin for physics help, snacks on samosas.",
+    "night": ""
+  },
+  "history": "",
+  "relationship": "Two people have just met and are still unfamiliar with each other. Their conversations are mostly polite and superficial, limited to everyday topics like work, studies, or the weather. At this stage, both sides are cautious and have yet to reveal their true selves.",
+  "dialogue": [],
+  "completed": false,
+  "starting_intimacy_level": 0,
+  "intimacy_level": 0,
+  "category": "pending",
+  "rejection_reason": "",
+  "real_name": "Test"
+}

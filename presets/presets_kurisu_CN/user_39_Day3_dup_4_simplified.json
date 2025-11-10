@@ -1,0 +1,22 @@
+{
+  "dialogue": [],
+  "completed": false,
+  "history": "",
+  "user_schedule": {
+    "day": 3,
+    "morning": "在暑假实在是无聊找了一份客服的工作，但是之前的自己打字一直是不快的，从家走的时候没有拿电脑，所以只能给自己的平板配备一个键盘。感觉用这个键盘打字还可以。但是感觉还是自身问题，就感觉打字很慢。所以想问问朋友们打字快不快，借鉴一下呢。"
+  },
+  "relationship": "Continuing relationship from previous interactions.",
+  "user_name": "罗晶",
+  "character_name": "Kurisu",
+  "user_id": "user_39",
+  "real_name": "罗晶",
+  "intimacy_level": 0,
+  "starting_intimacy_level": 0,
+  "_creation_metadata": {
+    "created_at": 1759838359,
+    "created_by_ip": "127.0.0.1",
+    "created_by_user_agent": "Mozilla/5.0 (Linux; Android 15; TB331FC Build/AQ3A.240912.001; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/138.0.7204.180 Safari/537.36 XWEB/1380215 MMWEBSDK/20250503 MMWEBID/7857 MicroMessenger/8.0.61.2880(0x28003D5B) WeChat/arm64 Weixin Android Tablet NetType/WIFI Language/zh_CN ABI/arm64",
+    "version": "1.0"
+  }
+}

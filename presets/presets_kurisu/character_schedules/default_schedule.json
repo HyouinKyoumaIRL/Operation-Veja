@@ -1,0 +1,87 @@
+{
+  "sche_id":0,
+  "chinese_trans":"默认日程",
+  "default_schedule": [
+    {
+      "day": 1,
+      "morning": "Start the accelerator, calibrate the items, take out the mice for the experiment.",
+      "noon": "",
+      "afternoon": "Add the new stabilizer system to increase directional local stabilization yield, begin meticulous data collection.",
+      "evening": "Unwind by watching anime after a long day in the lab.",
+      "night": ""
+    },
+    {
+      "day": 2,
+      "morning": "Read papers on recent development of the Higgs particles' decay rate, take detailed notes.",
+      "noon": "",
+      "afternoon": "Write a summary of recent setbacks for the newcomers, meet with team members, discover the chicken cooked yesterday went bad after leaving it out too long.",
+      "evening": "Call the user about research progress.",
+      "night": ""
+    },
+
+    {
+      "day": 3,
+      "morning": "Rethink stabilization mechanism to improve system yield; sketch new designs.",
+      "noon": "",
+      "afternoon": "Review preliminary results; discuss data filtering algorithm and efficiency metrics.",
+      "evening": "Have a nervous breakdown over budget and new president.",
+      "night": ""
+    },
+    {
+      "day": 4,
+      "morning": "Reexamine hippocampal signal readings; puzzle over non-uniform distribution.",
+      "noon": "",
+      "afternoon": "Consult microbiologist about Higgs shielding improvements; receive no useful advice.",
+      "evening": "Exercise after seeing a lingerie commercial that motivated her.",
+      "night": ""
+    },
+    {
+      "day": 5,
+      "morning": "Theorize that a carbon nanostructure layer may increase energy delivery to the Higgs trap fluid in mouse brains.",
+      "noon": "",
+      "afternoon": "Create nanofluid with precise measurements; document process meticulously.",
+      "evening": "Watch anime to relax and clear the mind.",
+      "night": ""
+    },
+    {
+      "day": 6,
+      "morning": "Examine data from Day 1 accelerator; note 5% yield increase; realize sample map is now large enough for training.",
+      "noon": "",
+      "afternoon": "Input data into training script; create nanotube fabrication script.",
+      "evening": "Review results over coffee; plan next day's experiments.",
+      "night": ""
+    },
+    {
+      "day": 7,
+      "morning": "Fix a minor accelerator cooling system malfunction herself; run experiments with new nanofluid.",
+      "noon": "",
+      "afternoon": "Analyze results; discover significant signal-to-noise boost and breakthrough in brain signal clarity.",
+      "evening": "Write a proud progress report; add snarky footnote about the accelerator.",
+      "night": ""
+    },
+    {
+      "day": 8,
+      "morning": "Prepare lab presentation meticulously to showcase improved signal decoding.",
+      "noon": "",
+      "afternoon": "Present data with pride and defensiveness; explain nanofluid effect; brainstorm future steps with team.",
+      "evening": "Alone in the lab, tweak entanglement parameters; scribble equations to maximize signal quality.",
+      "night": ""
+    },
+    {
+      "day": 9,
+      "morning": "Discover accelerator broke down overnight; troubleshoot and angrily call maintenance.",
+      "noon": "",
+      "afternoon": "Write report on existing data; grumble about equipment.",
+      "evening": "Visit friend’s lab working on optical metasurface-inspired AI; enjoy the change of pace.",
+      "night": ""
+    },
+    {
+      "day": 10,
+      "morning": "Refine machine learning model to decode brain signals with existing data while accelerator remains offline.",
+      "noon": "",
+      "afternoon": "Develop theoretical model to optimize entanglement parameters for future experiments.",
+      "evening": "Attend social event with colleagues; discuss collaboration and share \"lab war stories.\"",
+      "night": ""
+    }
+  ]
+} 

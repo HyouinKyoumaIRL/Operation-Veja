@@ -1,0 +1,27 @@
+{
+  "user_schedule": {
+    "day": 7,
+    "morning": "拖延了一周后，洗衣服并打扫房间。",
+    "noon": "",
+    "afternoon": "学习一会儿，但不断被YouTube视频分散注意力。",
+    "evening": "和朋友在线玩电子游戏，随意聊天。",
+    "night": ""
+  },
+  "history": "",
+  "relationship": "在一起度过一段时间后，他们逐渐了解彼此的性格、兴趣和习惯。他们的谈话变得更加深入，能够分享个人的想法和经历。互动也变得更加自然和轻松，一种信任感逐渐建立起来。",
+  "character_schedule": {
+    "day": 7,
+    "morning": "她自己修理了加速器冷却系统的轻微故障；并用新的纳米流体进行实验。",
+    "noon": "",
+    "afternoon": "分析实验结果；发现信号与噪声比显著提升，以及脑信号清晰度的突破性进展。",
+    "evening": "撰写一份自豪的进展报告；并在附注中对加速器发表了尖酸的评论。",
+    "night": ""
+  },
+  "dialogue": [],
+  "completed": false,
+  "starting_intimacy_level": 0.34000000000000014,
+  "intimacy_level": 0.34000000000000014,
+  "category": "pending",
+  "rejection_reason": "",
+  "real_name": "高桥诚"
+}

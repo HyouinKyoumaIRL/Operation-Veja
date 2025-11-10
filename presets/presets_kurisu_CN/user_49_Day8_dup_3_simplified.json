@@ -1,0 +1,26 @@
+{
+  "dialogue": [],
+  "completed": false,
+  "history": "",
+  "user_schedule": {
+    "morning": "起床时发现室友忘关闹钟，结果铃声循环播放了整整二十分钟，差点让我精神崩溃。后来干脆戴着降噪耳机吃早餐。",
+    "noon": "去食堂吃饭，结果和一群爱聊政治的同事拼桌，最后我只顾低头啃炸鸡。",
+    "afternoon": "帮客户处理数据集，结果文件太大直接卡死，我只能重启系统。顺便去楼下买咖啡，遇到一个日本留学生在看《新世纪福音战士》的设定集，还聊了几句。",
+    "evening": "下班回家路上，顺手买了漫画《电锯人》的新一卷。回家一边看漫画一边喝啤酒，差点笑喷。",
+    "night": "",
+    "day": 8
+  },
+  "relationship": "Continuing relationship from previous interactions.",
+  "user_name": "John Smith",
+  "character_name": "Kurisu",
+  "user_id": "user_49",
+  "real_name": "马博洋",
+  "intimacy_level": 0,
+  "starting_intimacy_level": 0,
+  "_creation_metadata": {
+    "created_at": 1760292447,
+    "created_by_ip": "127.0.0.1",
+    "created_by_user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36 Edg/141.0.0.0",
+    "version": "1.0"
+  }
+}

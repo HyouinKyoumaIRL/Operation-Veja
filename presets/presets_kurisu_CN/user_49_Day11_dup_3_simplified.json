@@ -1,0 +1,26 @@
+{
+  "dialogue": [],
+  "completed": false,
+  "history": "",
+  "user_schedule": {
+    "morning": "被窗外的噪音吵醒，泡了黑咖啡提神。参加线上例会，顺便清理昨晚没写完的代码。",
+    "noon": "和同事去楼下吃了拉面，途中收到一条奇怪的加密消息：“这次，别迟到。” 没署名。心里微微一动。",
+    "afternoon": "修复客户系统的 bug，一直对着屏幕到头疼。看着乱成一团的逻辑，突然觉得像在修一条混乱的时间线。",
+    "evening": "在公园长椅上看日落，随后回家。打开灯的瞬间，他对着镜中的自己笑了笑，像是在对另一个人说话。那晚，他梦见了一个曾被称作“涟漪”的世界。",
+    "night": "",
+    "day": 11
+  },
+  "relationship": "Continuing relationship from previous interactions.",
+  "user_name": "John Smith",
+  "character_name": "Kurisu",
+  "user_id": "user_49",
+  "real_name": "",
+  "intimacy_level": 0,
+  "starting_intimacy_level": 0,
+  "_creation_metadata": {
+    "created_at": 1760292447,
+    "created_by_ip": "127.0.0.1",
+    "created_by_user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36 Edg/141.0.0.0",
+    "version": "1.0"
+  }
+}

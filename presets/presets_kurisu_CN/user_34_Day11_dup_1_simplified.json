@@ -1,0 +1,14 @@
+{
+  "user_schedule": {
+    "day": 11,
+    "morning": "1"
+  },
+  "history": "",
+  "relationship": "Continuing relationship from previous interactions.",
+  "dialogue": [],
+  "intimacy_level": 1.040000000000001,
+  "starting_intimacy_level": 1.040000000000001,
+  "completed": false,
+  "user_name": "佐藤結衣",
+  "character_name": "Kurisu"
+}

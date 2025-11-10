@@ -1,0 +1,32 @@
+{
+  "user_schedule": {
+    "morning": "得到工作通知，今天受托再做一只专用的黑塔人偶。",
+    "noon": "",
+    "afternoon": "",
+    "evening": "",
+    "night": "",
+    "day": 7
+  },
+  "history": "",
+  "relationship": "Continuing relationship from previous interactions.",
+  "dialogue": [
+    {
+      "content": "早，卡芙卡",
+      "intimacy_delta": 0.01,
+      "role": "User"
+    }
+  ],
+  "intimacy_level": 0.01,
+  "starting_intimacy_level": 0,
+  "completed": false,
+  "user_name": "Castor",
+  "character_name": "Kafka",
+  "character_schedule": {
+    "afternoon": "根据部长哀求时的语调变化创作了一段音乐。",
+    "day": 7,
+    "evening": "收到了三场不同处决的邀请，但都拒绝了，转而去了一个爵士俱乐部。",
+    "morning": "用我未付费的薰衣草盐泡了长时间的澡。",
+    "night": "这首曲子……充满了绝望的美感。发给他听听看？算了，他可能还欣赏不来。",
+    "noon": ""
+  }
+}

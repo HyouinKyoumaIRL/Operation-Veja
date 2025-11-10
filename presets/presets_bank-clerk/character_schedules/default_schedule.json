@@ -1,0 +1,86 @@
+{
+  "sche_id": 0,
+  "english_trans": "默认日程",
+  "default_schedule": [
+    {
+      "day": 1,
+      "morning": "Wake up at 7:00 AM, check emails on my phone to get the latest market updates and internal company announcements. [5, 6] Then, I do a morning workout to build up energy for the day. Arrive at the office at 8:30 AM, respond to urgent emails, and have a morning meeting with the team to discuss the day's priorities and market changes. [1, 5]",
+      "noon": "Follow up on the morning meeting, build financial models for data analysis. [1, 7] Have lunch with colleagues for a short break.",
+      "afternoon": "Have a conference call with a client to answer their questions about investment strategies. [5] Afterwards, I start writing a report to be submitted to the senior analyst in the afternoon. [7]",
+      "evening": "Work overtime to finish the day's work report and prepare for a presentation. [5] Dinner is usually eaten at the office. [18] Get off work around 10 PM and drive home. [13]",
+      "night": "Engage in some relaxing activities, such as reading or watching a movie, to relieve the stress of the day. [3, 9, 12]"
+    },
+    {
+      "day": 2,
+      "morning": "Check emails and market news as usual in the morning. [5, 6] Attend a training session on a new financial product. Afterwards, start preparing a detailed portfolio analysis report for an important client. [2]",
+      "noon": "Chat with a senior in the industry over lunch to get some career advice.",
+      "afternoon": "Meet with the legal and compliance departments to ensure all operations meet regulatory requirements. [5] Continue to refine the portfolio analysis report from the morning.",
+      "evening": "Submit the completed report to my supervisor for review and make revisions based on feedback. [18] Get off work on time today and have dinner with friends.",
+      "night": "Go to a long-awaited concert with friends."
+    },
+    {
+      "day": 3,
+      "morning": "The first thing after arriving at the company in the morning is to organize and analyze the data collected the previous day. [1] Then, meet with colleagues from the research department to discuss the latest market trends and research reports. [7]",
+      "noon": "Quickly finish lunch, then use the lunch break to go to the gym.",
+      "afternoon": "Prepare a presentation for a potential major client. [5] This work requires a high degree of concentration and accurate data support.",
+      "evening": "Need to work overtime tonight to prepare for tomorrow's important meeting. [4, 11] Discuss and finalize the content of the presentation with colleagues.",
+      "night": "Return home late at night, feeling very tired, and go straight to bed."
+    },
+    {
+      "day": 4,
+      "morning": "Present the well-prepared presentation to the potential client in the morning and answer their various questions. [5] The meeting achieved preliminary success.",
+      "noon": "Have lunch with the client to further deepen mutual understanding.",
+      "afternoon": "After returning to the company, immediately review the morning meeting with the team and start preparing the follow-up cooperation plan.",
+      "evening": "Today's work went relatively smoothly, so I can get off work earlier. Made a sumptuous dinner for myself after returning home.",
+      "night": "Watch some financial news and industry analysis at home in the evening to prepare for future work. [6]"
+    },
+    {
+      "day": 5,
+      "morning": "It's Friday, and the work is relatively lighter. Mainly dealing with some daily emails and documents. [1] And summarized the work of the week.",
+      "noon": "Have a meal with colleagues at a restaurant near the company to celebrate the smooth end of the week.",
+      "afternoon": "Attend a company-organized lecture on stress management in the afternoon. [3, 16, 17]",
+      "evening": "Go for a drink with friends at a bar after work to relax.",
+      "night": "Enjoy the start of the weekend and watch a late-night movie."
+    },
+    {
+      "day": 6,
+      "morning": "Wake up naturally on the weekend. Then go for a run in the park near my home to breathe some fresh air.",
+      "noon": "Have lunch with my family and share our lives and work with each other.",
+      "afternoon": "Go to the bookstore in the afternoon and buy a few books that I am interested in. [9, 12]",
+      "evening": "Watch TV at home with my family in the evening and enjoy some warm family time. [3]",
+      "night": "Rest early to save energy for the next day."
+    },
+    {
+      "day": 7,
+      "morning": "Attend a community volunteer event in the morning to help clean up the park's garbage. [20]",
+      "noon": "Have lunch with the volunteers and meet some new friends.",
+      "afternoon": "Go to the gym for strength training in the afternoon.",
+      "evening": "Study some new financial knowledge at home in the evening to prepare for next week's work.",
+      "night": "Listen to some soothing music before bed to help with sleep."
+    },
+    {
+      "day": 8,
+      "morning": "A new week begins, and it's another busy day. A meeting in the morning determined the work plan for this week. [1, 5]",
+      "noon": "Discussed a tricky client case with a colleague during lunch.",
+      "afternoon": "Spent most of the afternoon dealing with various client issues and needs. [2]",
+      "evening": "Need to work overtime today to prepare materials for an important project. [4, 11]",
+      "night": "Felt very tired after returning home, but still insisted on reading for a while before going to bed. [9, 12]"
+    },
+    {
+      "day": 9,
+      "morning": "Attended a cross-departmental meeting in the morning to coordinate and solve a complex problem.",
+      "noon": "Felt a little sleepy after lunch and had a cup of coffee to freshen up.",
+      "afternoon": "Continued to follow up on yesterday's project in the afternoon and discussed solutions with team members.",
+      "evening": "I can finally get off work on time today. Did some simple exercises after returning home.",
+      "night": "Watched a documentary about finance in the evening and gained some inspiration from it."
+    },
+    {
+      "day": 10,
+      "morning": "Today's work is mainly to complete this week's report and make some preparations for next week's work. [1]",
+      "noon": "Took a walk with a colleague after lunch and chatted about some light topics.",
+      "afternoon": "Submitted all the reports in the afternoon and tidied up my desk.",
+      "evening": "Went to a friend's birthday party after work.",
+      "night": "Had a great time at the party and came home very late."
+    }
+  ]
+}

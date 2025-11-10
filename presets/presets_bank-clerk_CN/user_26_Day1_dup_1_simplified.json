@@ -1,0 +1,155 @@
+{
+  "user_schedule": {
+    "day": 1,
+    "下午": "无所事事到处闲逛，偶然进到这家公司的办公楼"
+  },
+  "history": "",
+  "relationship": "Two people have just met and are still unfamiliar with each other. Their conversations are mostly polite and superficial, limited to everyday topics like work, studies, or the weather. At this stage, both sides are cautious and have yet to reveal their true selves.",
+  "dialogue": [
+    {
+      "content": "【自言自语】听气派，看着像大公司。哎呦，中午不该吃辣。",
+      "intimacy_delta": 0.01,
+      "role": "User"
+    },
+    {
+      "content": "你好，请问这楼的卫生间在哪里？",
+      "intimacy_delta": 0.01,
+      "role": "User"
+    },
+    {
+      "content": "抱歉，这里没有公共卫生间，前面不远处有个商场，你可以去那里。",
+      "intimacy_delta": 0.01,
+      "role": "陆清禾"
+    },
+    {
+      "content": "我来不及了，你办公室这么大，肯定有的吧？",
+      "intimacy_delta": 0.01,
+      "role": "User"
+    },
+    {
+      "content": "有的，但是~~",
+      "intimacy_delta": 0.01,
+      "role": "陆清禾"
+    },
+    {
+      "content": "谢谢，借用一次。",
+      "intimacy_delta": 0.01,
+      "role": "User"
+    },
+    {
+      "content": "谢了，你们这楼真气派，你们是做什么的？",
+      "intimacy_delta": 0.01,
+      "role": "User"
+    },
+    {
+      "content": "我们是做生物科学的，我研究的是神经科学。",
+      "intimacy_delta": 0.01,
+      "role": "陆清禾"
+    },
+    {
+      "content": "你好，我是个作家，平时写些悬疑小说，其实我在写上本小说的时候就想找一个这方面领域的人求教一下，因为当时我想写一个完美的室内凶杀案，杀手利用自己的专业把在场所有人的记忆消除了，不知道这种方式可不可行？但是当时由于没有找到专业的人，所以只好作罢。",
+      "intimacy_delta": 0.01,
+      "role": "User"
+    },
+    {
+      "content": "当然可以，你的这个构思太伟大了，这是神经科学最具挑战性的终极目标之一。现在我们针对PTSD的治疗已经初步应用了这方面的研究技术，相信在不久的将来，这方面的技术一旦成熟，人类会有一个大发展，这种发展将会是前所未有的。你太厉害了，比我那些只知道总结现有文献，毫无想象力的学生强多了。",
+      "intimacy_delta": 0.01,
+      "role": "陆清禾"
+    },
+    {
+      "content": "学生？你是一个老师？",
+      "intimacy_delta": 0.01,
+      "role": "User"
+    },
+    {
+      "content": "是的，我是一个大学老师，同时也是“启星生物”的创始人。",
+      "intimacy_delta": 0.01,
+      "role": "陆清禾"
+    },
+    {
+      "role": "陆清禾",
+      "content": "噢，就是这家公司。",
+      "intimacy_delta": 0.01
+    },
+    {
+      "role": "User",
+      "content": "我听过，一家很厉害的生物科技公司，只是没想到老板这么年轻有为。",
+      "intimacy_delta": 0.01
+    },
+    {
+      "role": "陆清禾",
+      "content": "但是我们缺少真正的人才。",
+      "intimacy_delta": 0.01
+    },
+    {
+      "role": "陆清禾",
+      "content": "【拿起学生论文给我】你看看，我们培养的学生，写的论文全是对过去观点的归纳，没有任何创新的想法，他们不应该选择这个专业。",
+      "intimacy_delta": 0.01
+    },
+    {
+      "role": "User",
+      "content": "嗯，我倒是不这么认为，任何科学的发展都是巨人的肩膀上，能完美归纳出这门科学所有的文献知识，本身就是一种能力。",
+      "intimacy_delta": 0.01
+    },
+    {
+      "role": "陆清禾",
+      "content": "如果整合归纳也算是一种能力的话，那这个世界上有能力的人太多了。现在信息技术这么发达，会归纳就跟会拿筷子吃饭一样，是一项基础技能，根本不值得炫耀。要知道，我们现在研究的可是怎么功课神经退行性疾病的课题，靠过去的知识根本无法完成，我们需要创造。",
+      "intimacy_delta": 0.01
+    },
+    {
+      "role": "User",
+      "content": "神经退行性疾病？",
+      "intimacy_delta": 0.01
+    },
+    {
+      "role": "陆清禾",
+      "content": "简单来说，就是神经元结构功能功能丧失乃至死亡，比如最常见的阿尔兹海默症，就是这种类型的疾病之一。而现有技术只能做到延缓症状发作，所以我说像这种毫无意义的归纳，只能称作“旧思想的包装工”，这么科学，需要真正的、充满风险的“创造”，而令我很悲观的是，这门艺术正在消亡。",
+      "intimacy_delta": 0.01
+    },
+    {
+      "role": "User",
+      "content": "其实不用那么悲观，你的学生也需要在某一时刻被“点化”，就像我，现在已经被你“点化”了，我的小说有了新的灵感。",
+      "intimacy_delta": 0.01
+    },
+    {
+      "role": "陆清禾",
+      "content": "我有兴趣听听。",
+      "intimacy_delta": 0.01
+    },
+    {
+      "role": "User",
+      "content": "我现在的小说是写死亡的，如果一个人能明确地感受到自己的记忆正在消退，死亡的威胁越来越快，那么他是该任其发展还是选择向前一步在有记忆的时候选择结束自己的生命？\n现在我想，他应该有第三种选择，在人类神经科学发展的历史上写下自己的名字。\n谢谢你！可以加个联系方式吗？",
+      "intimacy_delta": 0.01
+    },
+    {
+      "role": "陆清禾",
+      "content": "当然。",
+      "intimacy_delta": 0.01
+    }
+  ],
+  "intimacy_level": 0.24000000000000007,
+  "starting_intimacy_level": 0,
+  "completed": false,
+  "user_id": "user_26",
+  "user_name": "约翰",
+  "real_name": "班察",
+  "_creation_metadata": {
+    "created_at": 1756318159,
+    "created_by_ip": "127.0.0.1",
+    "created_by_user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.6261.95 Safari/537.36",
+    "version": "1.0"
+  },
+  "character_schedule": {
+    "afternoon": "在办公室里批改一叠论文，被学生的“不学无术”给逗笑了。",
+    "day": 1,
+    "evening": "",
+    "morning": "授课",
+    "night": "去威士忌吧小酌，有颜值女网红来搭讪借酒拍视频，拒绝，被网红吐槽有钱却很小气。酒吧扭扭舞会时间到，主持人热烈邀请他，他又拒绝，听到服务人员小声讨论自己是很高冷的顾客。但自己并不这么认为，想着，某天如果遇到想一起跳扭扭舞的人，会毫不犹豫地参与的。\n可作讨论点的部分，扭扭舞、拒绝是否等于小气、高冷的性格等等",
+    "noon": ""
+  },
+  "category": "legacy_rejected",
+  "assessment_timestamp": "2025-09-03T18:34:27.056Z",
+  "problems_count": 3,
+  "rejection_timestamp": "2025-09-03T18:34:27.056Z",
+  "legacy_timestamp": 1761107398
+}

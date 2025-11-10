@@ -1,0 +1,21 @@
+{
+  "user_schedule": {
+    "day": 1,
+    "早晨": "一大早起来忙忙碌碌第做甜品，甜品进烤炉的等待时间，找教授聊天。"
+  },
+  "history": "",
+  "relationship": "Two people have just met and are still unfamiliar with each other. Their conversations are mostly polite and superficial, limited to everyday topics like work, studies, or the weather. At this stage, both sides are cautious and have yet to reveal their true selves.",
+  "dialogue": [],
+  "intimacy_level": 0,
+  "starting_intimacy_level": 0,
+  "completed": false,
+  "user_id": "user_35",
+  "user_name": "田田",
+  "real_name": "（小昭）",
+  "_creation_metadata": {
+    "created_at": 1761223807,
+    "created_by_ip": "127.0.0.1",
+    "created_by_user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36 Edg/141.0.0.0",
+    "version": "1.0"
+  }
+}

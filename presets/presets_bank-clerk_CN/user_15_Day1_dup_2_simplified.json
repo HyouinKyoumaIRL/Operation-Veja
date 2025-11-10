@@ -1,0 +1,29 @@
+{
+  "dialogue": [],
+  "completed": false,
+  "history": "",
+  "user_schedule": {
+    "day": 1,
+    "早晨": "熬了一个通宵还没有睡觉，在床上侧着身子看视频和小说，在看小说视频的间隙在网上疯狂浏览自己脑子里突然冒出来的问题和想法，用尽各种手段想找到答案，找到之后继续看小说视频，如此循环往复。"
+  },
+  "character_schedule": {
+    "afternoon": "在办公室里批改一叠论文，在页边空白处写下对“缺乏原创性思想”的轻蔑批注。",
+    "day": 1,
+    "evening": "回到公寓，一边喝着一杯单一麦芽威士忌，一边审阅一份博士生的开题报告。报告技术上无可挑剔，但毫无想象力。他叹了口气，放下报告，给你发了消息。",
+    "morning": "在A大学。他讲了一堂刻意拔高的课程，观察着学生们的反应。他只关注那两三个因难度而显得兴奋的学生，而对那些不知所措的大多数不屑一顾。",
+    "night": "联想来源: 审阅一份学生的论文，它完美地总结了现有文献，但没有提出任何新观点。\n讨论点: “在一个所有信息都唾手可得的时代，‘整合归纳’的能力是否已成为一种美化版的、智力上的懦弱？我们正在培养‘旧思想的包装工’。真正的、充满风险的‘创造’，是一门正在消亡的艺术吗？如果是，我们是否应该任其消亡？”"
+  },
+  "relationship": "Two people have just met and are still unfamiliar with each other. Their conversations are mostly polite and superficial, limited to everyday topics like work, studies, or the weather. At this stage, both sides are cautious and have yet to reveal their true selves.",
+  "user_name": "百一",
+  "character_name": "",
+  "intimacy_level": 0,
+  "starting_intimacy_level": 0,
+  "user_id": "user_15",
+  "real_name": "孙秋",
+  "_creation_metadata": {
+    "created_at": 1754350329,
+    "created_by_ip": "127.0.0.1",
+    "created_by_user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 18_5 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.5 Mobile/15E148 Safari/604.1",
+    "version": "1.0"
+  }
+}

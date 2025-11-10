@@ -1,0 +1,23 @@
+{
+  "dialogue": [],
+  "completed": false,
+  "history": "",
+  "user_schedule": {
+    "day": 9,
+    "morning": "困的爬不起来，但是不行。",
+    "noon": "去了江苏连云港，连云港这个城市还是喜欢的，这边的太阳不像家乡的那么晒，，这让我的皮肤喝饱了水，我很喜欢。让我这个从来不出汗的人也是出汗了。我之前称他为生病了，当时还要打算去医院看看。这里的花果山也很美，不要问为什么，对于从小支持的猴哥力挺。"
+  },
+  "relationship": "Continuing relationship from previous interactions.",
+  "user_name": "罗晶",
+  "character_name": "Kurisu",
+  "user_id": "user_39",
+  "real_name": "",
+  "intimacy_level": 0,
+  "starting_intimacy_level": 0,
+  "_creation_metadata": {
+    "created_at": 1759838359,
+    "created_by_ip": "127.0.0.1",
+    "created_by_user_agent": "Mozilla/5.0 (Linux; Android 15; TB331FC Build/AQ3A.240912.001; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/138.0.7204.180 Safari/537.36 XWEB/1380215 MMWEBSDK/20250503 MMWEBID/7857 MicroMessenger/8.0.61.2880(0x28003D5B) WeChat/arm64 Weixin Android Tablet NetType/WIFI Language/zh_CN ABI/arm64",
+    "version": "1.0"
+  }
+}

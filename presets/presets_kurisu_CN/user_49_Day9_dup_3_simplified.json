@@ -1,0 +1,26 @@
+{
+  "dialogue": [],
+  "completed": false,
+  "history": "",
+  "user_schedule": {
+    "morning": "被楼下的装修声吵醒，电钻在墙里震得像地震一样。放弃赖床，随便冲了个澡，早餐只来得及啃半根香蕉。",
+    "noon": "中午和同事一起去楼下的拉面馆，结果排队的人特别多，硬是等了二十分钟。好在那碗叉烧拉面确实不错，汤头让人一下子清醒了不少。",
+    "afternoon": "老板甩给我一份混乱的数据表格，文件大到快把Excel搞崩溃。最后我只能拆分成几个小文件来处理，整整一个下午眼睛都盯在屏幕上。期间去茶水间倒咖啡，顺便和同事聊了几句最近的工作进度。",
+    "evening": "下班回家路上，路过便利店，看到限量款的啤酒，就随手买了几罐。到家后边喝边玩游戏，结果连续输几局，气得差点砸键盘。",
+    "night": "",
+    "day": 9
+  },
+  "relationship": "Continuing relationship from previous interactions.",
+  "user_name": "John Smith",
+  "character_name": "Kurisu",
+  "user_id": "user_49",
+  "real_name": "马博洋",
+  "intimacy_level": 0,
+  "starting_intimacy_level": 0,
+  "_creation_metadata": {
+    "created_at": 1760292447,
+    "created_by_ip": "127.0.0.1",
+    "created_by_user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36 Edg/141.0.0.0",
+    "version": "1.0"
+  }
+}

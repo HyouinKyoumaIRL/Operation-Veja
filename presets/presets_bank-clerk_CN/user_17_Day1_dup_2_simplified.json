@@ -1,0 +1,31 @@
+{
+  "dialogue": [],
+  "completed": false,
+  "history": "",
+  "user_schedule": {
+    "day": 1,
+    "下午": "拜访苏璃养父母。",
+    "晚上": "翻看父亲的工作日记。",
+    "夜晚": "看到希望后立即用能力乘着风来到了陆清禾的公司（即使在不确定对方是否在的情况下）"
+  },
+  "character_schedule": {
+    "day": 1,
+    "morning": "在A大学。他讲了一堂刻意拔高的课程，观察着学生们的反应。他只关注那两三个因难度而显得兴奋的学生，而对那些不知所措的大多数不屑一顾。",
+    "afternoon": "在办公室里批改一叠论文，在页边空白处写下对“缺乏原创性思想”的轻蔑批注。",
+    "evening": "回到公寓，一边喝着一杯单一麦芽威士忌，一边审阅一份博士生的开题报告。报告技术上无可挑剔，但毫无想象力。他叹了口气，放下报告，给你发了消息。",
+    "night": "联想来源: 审阅一份学生的论文，它完美地总结了现有文献，但没有提出任何新观点。\n讨论点: “在一个所有信息都唾手可得的时代，‘整合归纳’的能力是否已成为一种美化版的、智力上的懦弱？我们正在培养‘旧思想的包装工’。真正的、充满风险的‘创造’，是一门正在消亡的艺术吗？如果是，我们是否应该任其消亡？”"
+  },
+  "relationship": "Two people have just met and are still unfamiliar with each other. Their conversations are mostly polite and superficial, limited to everyday topics like work, studies, or the weather. At this stage, both sides are cautious and have yet to reveal their true selves.",
+  "user_name": "林风",
+  "character_name": "",
+  "intimacy_level": 0,
+  "starting_intimacy_level": 0,
+  "user_id": "user_17",
+  "real_name": "刘溪云",
+  "_creation_metadata": {
+    "created_at": 1754923039,
+    "created_by_ip": "127.0.0.1",
+    "created_by_user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36 Edg/139.0.0.0",
+    "version": "1.0"
+  }
+}

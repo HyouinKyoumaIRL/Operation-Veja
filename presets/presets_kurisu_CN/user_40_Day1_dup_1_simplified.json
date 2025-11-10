@@ -1,0 +1,97 @@
+{
+  "user_schedule": {
+    "day": 1,
+    "早晨": "早上负责一些新产品的分析，有时候也得自己上嘴吃一些，研发部的那些人希望还有新点子，不然现在产品迭代更新太快了",
+    "中午": "负责一些员工的培训，自己的部门绩效不是最好的，但也是最稳定的，归根结底，我们不能够只把眼前的利益看成考量的重点",
+    "下午": "外出调研，对于学生消费群体的开发，有了新的想法，为什么现在的一些年纪小的学生没有他们喜欢的某种现象级食物？"
+  },
+  "history": "",
+  "relationship": "Two people have just met and are still unfamiliar with each other. Their conversations are mostly polite and superficial, limited to everyday topics like work, studies, or the weather. At this stage, both sides are cautious and have yet to reveal their true selves.",
+  "dialogue": [
+    {
+      "role": "User",
+      "content": "你好！这位朋友，我想问一下您在资料里的实验室人员应该是真实的吧？我还是第一次和这块领域的人交流，如果方便的话请您在感兴趣的时候回复",
+      "intimacy_delta": 0.01
+    },
+    {
+      "role": "User",
+      "content": "我最近接手的项目里头有一个是对一些不常外出就餐的人群进行一些针对性的产品研发，所以想听听您这里的一些看法",
+      "intimacy_delta": 0.01
+    },
+    {
+      "role": "Kurisu",
+      "content": "看法？不需要用“您”，我不想把这个聊天室搞成推销的空间",
+      "intimacy_delta": 0.01
+    },
+    {
+      "role": "Kurisu",
+      "content": "我并不会在这里回复任何关于销售人员的问题，所以我需要你确定一下，你是用什么样的身份发起的这个对话？",
+      "intimacy_delta": 0.01
+    },
+    {
+      "role": "User",
+      "content": "啊，不好意思，不过你大可放心，嗯，我并不算是销售人员",
+      "intimacy_delta": 0.01
+    },
+    {
+      "role": "User",
+      "content": "硬要说的话，也算是一位“研究者”吧",
+      "intimacy_delta": 0.01
+    },
+    {
+      "role": "User",
+      "content": "如果说针对一些消费者的饮食习惯进行分析，并且挖掘潜在可能的消费需求也算是一种研究者的话",
+      "intimacy_delta": 0.01
+    },
+    {
+      "role": "Kurisu",
+      "content": "没必要妄自菲薄，虽然说量化的试验和具体的数据才算是能够体现科学严谨性的根本，但是对于一些非科班研究人员来说，他们也会有自己归纳总结的一些经验之谈",
+      "intimacy_delta": 0.01
+    },
+    {
+      "role": "User",
+      "content": "很少能遇见你这样通情达理的人了",
+      "intimacy_delta": 0.01
+    },
+    {
+      "role": "User",
+      "content": "对于销售岗位那种偏见我也能够理解，对于您这样的高级知识分子，我想对他们的看法也大多都是认为没有实际产出价值的人罢了",
+      "intimacy_delta": 0.01
+    },
+    {
+      "role": "Kurisu",
+      "content": "这种观念确实在我的圈子里不少，不过看起来你似乎有别的说辞？",
+      "intimacy_delta": 0.01
+    },
+    {
+      "role": "User",
+      "content": "说辞还是太高看我了，我只不过不太认可传统的销售岗位观点",
+      "intimacy_delta": 0.01
+    },
+    {
+      "role": "User",
+      "content": "对于大部分销售岗位来说，欺骗似乎是必备的基本功，这种做法往往可以得到不少的收入，但是干不长久",
+      "intimacy_delta": 0.01
+    }
+  ],
+  "intimacy_level": 0.12999999999999998,
+  "starting_intimacy_level": 0,
+  "completed": false,
+  "user_id": "user_40",
+  "user_name": "高进",
+  "real_name": "林朝圣",
+  "_creation_metadata": {
+    "created_at": 1760273088,
+    "created_by_ip": "127.0.0.1",
+    "created_by_user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36",
+    "version": "1.0"
+  },
+  "character_schedule": {
+    "afternoon": "校准发射器焦点时，问题变得明显。稳定臂有轻微但持续的“漂移”（drifting），导致束流焦点无法精确锁定在几毫米的目标区域。她和同学甲花了整整三个小时手动微调，通过几十次小范围脉冲发射来强行校准，结果勉强达标。",
+    "day": 1,
+    "evening": "情绪波动及想聊的内容\n“烦死了，又是那个稳定臂。去年就说要换个新的伺服电机，结果经费申请被打回来说‘现有设备仍可运行’。可运行不代表‘可用’啊！每次开机都要跟它斗智斗勇半天，浪费的都是宝贵的实验时间。”\n为什么我们现代人与自己使用的工具如此脱节？一个古罗马的工匠能自己造出所有的工具，而我这个理论物理博士，连个伺服电机都修不好。这种技术上的“黑箱”是不是一种进步的代价？\n为什么有些科学家，比如费米，总能用最简单的设备做出最深刻的发现，而我们现在堆砌了这么多昂贵的设备，却常常在解决一些很无聊的问题？科学研究是不是也存在一种“品味”或“审美”？我们是不是正在失去这种品味？",
+    "morning": "启动加速器，开始进行标准的束流管道真空抽取和冷却系统预冷。一切流程看起来都和往常一样。心情平静，准备好开始新一周的工作。",
+    "night": "",
+    "noon": "午餐时和同学甲（加速器维护员）简短讨论，他抱怨说感觉稳定臂（stabilizer arm）的伺服电机响应有点延迟，但他上周已经“重启”过了。红莉栖没太在意，觉得是老毛病。吃完饭后感觉稍微有些累，前往附近咖啡馆准备休息一下。"
+  }
+}

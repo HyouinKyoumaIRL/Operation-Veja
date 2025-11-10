@@ -1,0 +1,26 @@
+{
+  "dialogue": [],
+  "completed": false,
+  "history": "",
+  "user_schedule": {
+    "morning": "昨晚喝得有点多，早上醒来头还有点晕。电邮堆积成山，发现有一个合作方发错了重要文件的版本，害我白忙了一天。花了半小时给他们写了一封语气温和、但字字带刺的邮件。冲了杯黑咖啡提神，看着阳台上的植物在阳光下微微动，好像一切都慢下来了。",
+    "noon": "午餐吃得很简单，只是便利店的咖喱饭。公司里今天气氛挺奇怪，大家都在低声议论老板要裁一部分项目。John没有说话，只是默默听着。午后去会议室帮忙做了一个系统测试，数据表现比预期好。",
+    "afternoon": "临时接到一个线上会议，合作方在报告里说了很多“未来展望”，却没一个落地方案。他边听边在笔记本上随手画图。画着画着，竟然画出了一个神经网络结构图。那一瞬间他笑了，说不清为什么。",
+    "evening": "下班后，一个老朋友突然发消息说想出来喝一杯。他们去了老地方——一间几乎没人记得的旧酒吧。那是John曾经常去的地方，有点昏暗、有点破旧，但音乐刚刚好。朋友聊起旧同事的事，他没怎么插话，只是听着，偶尔笑笑。回家后，他打开电脑，看了会儿红莉栖昨天提到的光学AI资料。",
+    "night": "",
+    "day": 10
+  },
+  "relationship": "Continuing relationship from previous interactions.",
+  "user_name": "John Smith",
+  "character_name": "Kurisu",
+  "user_id": "user_49",
+  "real_name": "",
+  "intimacy_level": 0,
+  "starting_intimacy_level": 0,
+  "_creation_metadata": {
+    "created_at": 1760292447,
+    "created_by_ip": "127.0.0.1",
+    "created_by_user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36 Edg/141.0.0.0",
+    "version": "1.0"
+  }
+}
